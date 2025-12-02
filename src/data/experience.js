@@ -129,6 +129,28 @@ const experiences = [{
             }
         }
     ]
+},
+{
+    year: {
+        en: "2025",
+        pt: "2025"
+    },
+    works: [
+        {
+            name: {
+                en: "Web Developer",
+                pt: "Desenvolvedor Web"
+            },
+            company: {
+                en: "CredMatch",
+                pt: "CredMatch"
+            },
+            desc: {
+                en: "In 2025, I developed CredMatch, a platform focused on the analysis and approval of different types of credit, created independently. The project was born from the need to streamline evaluation processes and provide more agility for companies and clients.",
+                pt: "Em 2025, desenvolvi a plataforma CredMatch, um sistema voltado para análise e concessão de diferentes tipos de crédito, criado de forma independente. O projeto nasceu da necessidade de facilitar processos de avaliação e oferecer mais agilidade para empresas e clientes."
+            }
+        }
+    ]
 }];
 
 export default experiences;
